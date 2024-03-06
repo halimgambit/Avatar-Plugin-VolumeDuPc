@@ -1,0 +1,10 @@
+{
+	"modules": { 
+		"VolumeDuPc": {
+			"version": "1.0",
+			"name": "volume_pc",
+			"rules": ["volume","sound","show","get louder","rise","turn up","lower","turn down","cut","extins","stop","return","back","put back","hands over","reset the volume","turn the sound back on","to put back","rule"]
+		}
+	}
+}
+			
