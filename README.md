@@ -4,4 +4,4 @@
 - exemple :
 - vous: monte/baisse/coupe/remets le volume/son, l'action s'éxecute sur le client la piece ou vous etes,
 - vous: mets le volume/son à 30 % dans la cuisine, l'action s'éxecute sur le client cuisine
-- post: ca peux etre une tablette, mini mc.
+- post: ca peux etre une tablette, mini pc.
